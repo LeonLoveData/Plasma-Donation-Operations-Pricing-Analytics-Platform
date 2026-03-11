@@ -1,0 +1,4 @@
+experiment_id,experiment_name,start_date,end_date,target_population,treatment_definition,control_definition,primary_metric
+1,New Donor Bonus Test,2023-03-01,2023-06-30,new_donors,+$5 bonus for first 4 donations,standard compensation,retention_30d
+2,Lapsed Donor Reactivation,2023-09-01,2023-12-31,lapsed_donors,+$10 bonus for first return donation,standard compensation,donation_frequency
+3,Center-Level Base Fee Increase,2024-03-01,2024-08-31,all_donors,+$3 base fee at selected centers,standard compensation,donations_per_donor
